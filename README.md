@@ -6,12 +6,12 @@
 
 **Automatic stretched resolution switching for Valorant — runs silently in your system tray**
 
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/ValoStretch?style=for-the-badge&color=A78BFA&labelColor=0C0C0F)](https://github.com/YOUR_USERNAME/ValoStretch/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&color=5865F2&labelColor=0C0C0F)](https://github.com/YOUR_USERNAME/ValoStretch/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/ValoStretch/total?style=for-the-badge&color=34D399&labelColor=0C0C0F)](https://github.com/YOUR_USERNAME/ValoStretch/releases/latest)
+[![Release](https://img.shields.io/github/v/release/chotuoo592029-star/Valostretch-?style=for-the-badge&color=A78BFA&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&color=5865F2&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/chotuoo592029-star/Valostretch-/total?style=for-the-badge&color=34D399&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0C0C0F)](https://discord.gg/uA3sMpFAuG)
 
-[**⬇ Download Latest**](https://github.com/YOUR_USERNAME/ValoStretch/releases/latest) · [**📋 Changelog**](CHANGELOG.md) · [**🐛 Report Bug**](https://github.com/YOUR_USERNAME/ValoStretch/issues/new?template=bug_report.md) · [**💡 Request Feature**](https://github.com/YOUR_USERNAME/ValoStretch/issues/new?template=feature_request.md)
+[**⬇ Download Latest**](https://github.com/chotuoo592029-star/Valostretch-/releases/latest) · [**📋 Changelog**](CHANGELOG.md) · [**🐛 Report Bug**](https://github.com/chotuoo592029-star/Valostretch-/issues/new?template=bug_report.md) · [**💡 Request Feature**](https://github.com/chotuoo592029-star/Valostretch-/issues/new?template=feature_request.md)
 
 </div>
 
@@ -113,7 +113,7 @@ No more manually changing display settings before every game. No more forgetting
 
 ### Fresh Install
 
-1. Go to [**Releases**](https://github.com/YOUR_USERNAME/ValoStretch/releases/latest)
+1. Go to [**Releases**](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
 2. Download `ValoStretch.exe`
 3. Run it — the setup wizard opens automatically
 4. Follow the 5 steps (takes about 2 minutes)
@@ -294,8 +294,8 @@ See [**CHANGELOG.md**](CHANGELOG.md) for the full patch notes.
 
 ## Support & Community
 
-- **Bug reports** → [GitHub Issues](https://github.com/YOUR_USERNAME/ValoStretch/issues/new?template=bug_report.md)
-- **Feature requests** → [GitHub Issues](https://github.com/YOUR_USERNAME/ValoStretch/issues/new?template=feature_request.md)
+- **Bug reports** → [GitHub Issues](https://github.com/chotuoo592029-star/Valostretch-/issues/new?template=bug_report.md)
+- **Feature requests** → [GitHub Issues](https://github.com/chotuoo592029-star/Valostretch-/issues/new?template=feature_request.md)
 - **Discord** → [Join the server](https://discord.gg/uA3sMpFAuG)
 
 ---
