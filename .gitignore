@@ -1,0 +1,13 @@
+# Ignore everything except what we explicitly want
+*
+
+# Allow these files and folders
+!README.md
+!CHANGELOG.md
+!.gitignore
+!.github/
+!.github/**
+!screenshots/
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.gif
