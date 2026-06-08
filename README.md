@@ -8,7 +8,7 @@
 
 [![Release](https://img.shields.io/github/v/release/chotuoo592029-star/Valostretch-?style=for-the-badge&color=A78BFA&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&color=5865F2&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/chotuoo592029-star/Valostretch-/total?style=for-the-badge&color=34D399&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
+[![Downloads](https://img.shields.io/badge/Downloads-543-green?style=for-the-badge&color=34D399&labelColor=0C0C0F)](https://github.com/chotuoo592029-star/Valostretch-/releases/latest)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0C0C0F)](https://discord.gg/uA3sMpFAuG)
 
 [**Download Latest**](https://github.com/chotuoo592029-star/Valostretch-/releases/latest) &nbsp;&middot;&nbsp; [**Changelog**](CHANGELOG.md) &nbsp;&middot;&nbsp; [**Report Bug**](https://github.com/chotuoo592029-star/Valostretch-/issues/new?template=bug_report.md) &nbsp;&middot;&nbsp; [**Request Feature**](https://github.com/chotuoo592029-star/Valostretch-/issues/new?template=feature_request.md)
